@@ -1,2 +1,2 @@
 # Android-Clone-App
-this is source of clone all
+this is source of clone app
