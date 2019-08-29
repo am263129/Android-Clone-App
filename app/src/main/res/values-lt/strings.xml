@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Prašau palauk…</string>
+    <string name="preparing">Programos atidarymas ...</string>
+    <string name="delete">Ištrinti</string>
+    <string name="create_shortcut">Sukurti nuorodą</string>
+    <string name="clone_apps">Klonuoti programas</string>
+    <string name="external_storage">Išorinė saugykla</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Teminė parduotuvė</string>
+    <string name="speed_mode">Greičio režimas</string>
+    <string name="invite_friend">Pakviesti draugą</string>
+    <string name="rate_us">Įvertinkite „Google Play“</string>
+    <string name="language">Kalba</string>
+    <string name="about">Apie</string>
+
+    <string name="sharebutton">Atsisiųskite „Clone App“ „Google Play“:</string>
+    <string name="delete_apps">Ištrinti programas</string>
+    <string name="do_you_want_to_delete">Ar norite ištrinti</string>
+    <string name="hi">Sveiki</string>
+    <string name="need_to_install_google_service">Mes nustatėme, kad jūsų įrenginys įdiegtas „Google“ paslauga, ar reikia jas įdiegti?</string>
+    <string name="find_it_in_setting">Jį taip pat galite rasti nustatymuose ~</string>
+    <string name="notice">Pastebėti: </string>
+    <string name="speed_mode_string1">1. Įjunkite tai gali pagreitinti „Clone App“ veikimą.</string>
+    <string name="speed_mode_string2">2. Įjunkite tai gali sumažinti akumuliatoriaus suvartojimą.</string>
+
+</resources>

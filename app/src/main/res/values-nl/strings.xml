@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Even geduld aub…</string>
+    <string name="preparing">De app openen ...</string>
+    <string name="delete">Verwijder</string>
+    <string name="create_shortcut">Maak een snelkoppeling</string>
+    <string name="clone_apps">Clone Apps</string>
+    <string name="external_storage">Externe opslag</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Themawinkel</string>
+    <string name="speed_mode">Snelheidsmodus</string>
+    <string name="invite_friend">Nodig een vriend uit</string>
+    <string name="rate_us">Beoordeel ons Google Play</string>
+    <string name="language">Taal</string>
+    <string name="about">Wat betreft</string>
+
+    <string name="sharebutton">Download "Clone App" op google play:</string>
+    <string name="delete_apps">Apps verwijderen</string>
+    <string name="do_you_want_to_delete">Wil je stoppen</string>
+    <string name="hi">Hoi</string>
+    <string name="need_to_install_google_service">We hebben vastgesteld dat uw apparaat de Google-service heeft geïnstalleerd, of u ze nu moet installeren?</string>
+    <string name="find_it_in_setting">Je kunt het ook vinden in Instellingen ~</string>
+    <string name="notice">Merk op: </string>
+    <string name="speed_mode_string1">1. Schakel dit in om het draaien van de Clone App te versnellen.</string>
+    <string name="speed_mode_string2">2. Schakel dit in om het batterijverbruik te verminderen.</string>
+
+
+</resources>

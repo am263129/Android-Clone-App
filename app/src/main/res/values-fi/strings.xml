@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Odota…</string>
+    <string name="preparing">Sovelluksen avaaminen ...</string>
+    <string name="delete">Poistaa</string>
+    <string name="create_shortcut">Luo pikakuvake</string>
+    <string name="clone_apps">Clone-sovellukset</string>
+    <string name="external_storage">Ulkoinen tallennus</string>
+
+
+    <!--  menu item names -->
+    <string name="theme_store">Teemapuisto</string>
+    <string name="speed_mode">Nopeusmuoto</string>
+    <string name="invite_friend">Kutsu ystävä</string>
+    <string name="rate_us">Arvostele meille Google Play</string>
+    <string name="language">Kieli</string>
+    <string name="about">Noin</string>
+
+    <string name="sharebutton">Lataa "Clone App" Google Playssa:</string>
+    <string name="delete_apps">Poista sovellukset</string>
+    <string name="do_you_want_to_delete">Haluatko poistaa</string>
+    <string name="hi">Hei</string>
+    <string name="need_to_install_google_service">Havaitsimme, että laitteesi on asennettu Google-palveluun, onko se asennettava?</string>
+    <string name="find_it_in_setting"> Voit myös löytää sen Asetukset ~</string>
+    <string name="notice">Ilmoitus: </string>
+    <string name="speed_mode_string1">1. Ota käyttöön tämä voi nopeuttaa "Clone app" -käynnistystä.</string>
+    <string name="speed_mode_string2">2. Ota käyttöön tämä voi vähentää akun säästöä.</string>
+
+</resources>

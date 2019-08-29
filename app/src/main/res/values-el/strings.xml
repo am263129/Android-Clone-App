@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Παρακαλώ περιμένετε…</string>
+    <string name="preparing">Άνοιγμα της εφαρμογής ...</string>
+    <string name="delete">Διαγράφω</string>
+    <string name="create_shortcut">Δημιουργία συντόμευσης</string>
+    <string name="clone_apps">Κλωνοποίηση εφαρμογών</string>
+    <string name="external_storage">Εξωτερική αποθήκευση</string>
+
+
+    <!--  menu item names -->
+    <string name="theme_store">Θέα Store</string>
+    <string name="speed_mode">Ταχύτητα λειτουργίας</string>
+    <string name="invite_friend">Προσκαλέστε φίλο</string>
+    <string name="rate_us">Αξιολογήστε μας το Google Play</string>
+    <string name="language">Γλώσσα</string>
+    <string name="about">Σχετικά με</string>
+
+    <string name="sharebutton">Κατεβάστε το "Clone App" στο Google Play:</string>
+    <string name="delete_apps">Διαγραφή εφαρμογών</string>
+    <string name="do_you_want_to_delete">Θέλετε να διαγράψετε</string>
+    <string name="hi">γεια</string>
+    <string name="need_to_install_google_service">Διαπιστώσαμε ότι η συσκευή σας έχει εγκατασταθεί στην υπηρεσία Google, είτε πρέπει να την εγκαταστήσετε;</string>
+    <string name="find_it_in_setting">Μπορείτε επίσης να το βρείτε στη Ρυθμίσεις ~</string>
+    <string name="notice">Ειδοποίηση: </string>
+    <string name="speed_mode_string1">1. Ενεργοποιήστε αυτό μπορεί να επιταχύνει την εφαρμογή "Clone app".</string>
+    <string name="speed_mode_string2">2. Ενεργοποιήστε αυτό μπορεί να μειώσει την κατανάλωση της μπαταρίας.</string>
+
+</resources>

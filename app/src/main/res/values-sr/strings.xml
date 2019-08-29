@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Сачекајте…</string>
+    <string name="preparing">Отварање апликације ...</string>
+    <string name="delete">Обриши</string>
+    <string name="create_shortcut">Направити пречицу</string>
+    <string name="clone_apps">Цлоне Аппс</string>
+    <string name="external_storage">Спољна меморија</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Тхеме Сторе</string>
+    <string name="speed_mode">Спеед Моде</string>
+    <string name="invite_friend">Позови пријатеља</string>
+    <string name="rate_us">Оцените нас на Гоогле Плаи-у</string>
+    <string name="language">Језик</string>
+    <string name="about">О томе</string>
+
+    <string name="sharebutton">Преузмите апликацију "Clone App" на Гоогле Плаи-у:</string>
+    <string name="delete_apps">Избриши апликације</string>
+    <string name="do_you_want_to_delete">Желите ли избрисати</string>
+    <string name="hi">Ћао</string>
+    <string name="need_to_install_google_service">Открили смо да је на вашем уређају инсталиран Гоогле сервис, без обзира да ли га морате инсталирати?</string>
+    <string name="find_it_in_setting">Можете га пронаћи иу Сеттингс ~</string>
+    <string name="notice">Објава: </string>
+    <string name="speed_mode_string1">1. Омогући ово може убрзати "Clone App" трчање.</string>
+    <string name="speed_mode_string2">2. Омогућите ово како бисте смањили потрошњу батерије.</string>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Prosím čakajte…</string>
+    <string name="preparing">Otvára sa aplikácia ...</string>
+    <string name="delete">vymazať</string>
+    <string name="create_shortcut">Vytvoriť zástupcu</string>
+    <string name="clone_apps">Clone Apps</string>
+    <string name="external_storage">Externé úložisko</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Téma Store</string>
+    <string name="speed_mode">Režim rýchlosti</string>
+    <string name="invite_friend">Pozvať priateľa</string>
+    <string name="rate_us">Ohodnoťte nám službu Google Play</string>
+    <string name="language">Jazyk</string>
+    <string name="about">ohľadom</string>
+
+    <string name="sharebutton">Stiahnite si "Clone App" na Google Play:</string>
+    <string name="delete_apps">Odstrániť aplikácie</string>
+    <string name="do_you_want_to_delete">Chcete odstrániť</string>
+    <string name="hi">Ahoj</string>
+    <string name="need_to_install_google_service">Zistili sme, že vaše zariadenie bolo nainštalované službou Google, či je potrebné nainštalovať?</string>
+    <string name="find_it_in_setting">Nájdete ho aj v časti Nastavenia ~</string>
+    <string name="notice">oznámenia: </string>
+    <string name="speed_mode_string1">1. Povoliť to môže urýchliť spustenie aplikácie "Clone App".</string>
+    <string name="speed_mode_string2">2. Aktivovať to môže znížiť spotrebu batérie.</string>
+
+</resources>

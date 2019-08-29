@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Te rog asteapta…</string>
+    <string name="preparing">Se deschide aplicația ...</string>
+    <string name="delete">Șterge</string>
+    <string name="create_shortcut">Crează o scurtătură</string>
+    <string name="clone_apps">Clonează aplicațiile</string>
+    <string name="external_storage">Stocare externă</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Tema magazin</string>
+    <string name="speed_mode">Modul de viteză</string>
+    <string name="invite_friend">Invită un prieten</string>
+    <string name="rate_us">Evaluați-ne Google Play</string>
+    <string name="language">Limba</string>
+    <string name="about">Despre</string>
+
+    <string name="sharebutton">Descărcați aplicația "Clone App" pe Google Play:</string>
+    <string name="delete_apps">Ștergeți aplicațiile</string>
+    <string name="do_you_want_to_delete">Doriți să ștergeți</string>
+    <string name="hi">Bună</string>
+    <string name="need_to_install_google_service">Am constatat că dispozitivul dvs. a fost instalat serviciul Google, indiferent dacă doriți să le instalați?</string>
+    <string name="find_it_in_setting">Puteți să o găsiți și în Setări ~</string>
+    <string name="notice">Înștiințare: </string>
+    <string name="speed_mode_string1">1. Activați acest lucru poate accelera funcționarea aplicației "Clone App".</string>
+    <string name="speed_mode_string2">2. Activați acest lucru poate reduce consumul de energie al bateriei.</string>
+
+
+</resources>

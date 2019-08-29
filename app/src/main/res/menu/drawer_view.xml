@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_theme_store"
+            android:icon="@drawable/ic_themestore"
+            android:title="@string/theme_store">
+        </item>
+
+        <item
+            android:id="@+id/nav_speed_mode"
+            android:icon="@drawable/ic_speed_mode"
+            android:title="@string/speed_mode">
+
+        </item>
+
+        <item
+            android:id="@+id/nav_invite_friend"
+            android:icon="@drawable/ic_invite_friend"
+            android:title="@string/invite_friend">
+
+        </item>
+
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/ic_rate_us"
+            android:title="@string/rate_us">
+
+        </item>
+
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/ic_language"
+            android:title="@string/language">
+
+        </item>
+
+    </group>
+</menu>

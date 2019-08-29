@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Kérlek várj…</string>
+    <string name="preparing">Az alkalmazás megnyitása ...</string>
+    <string name="delete">Töröl</string>
+    <string name="create_shortcut">Parancsikon létrehozása</string>
+    <string name="clone_apps">Alkalmazások klónozása</string>
+    <string name="external_storage">Külső tárhely</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Theme Store</string>
+    <string name="speed_mode">Sebesség mód</string>
+    <string name="invite_friend">Barát meghívása</string>
+    <string name="rate_us">Értékeljen minket a Google Playen</string>
+    <string name="language">Nyelv</string>
+    <string name="about">Ról ről</string>
+
+    <string name="sharebutton">A "Clone App" letöltése a Google Playen:</string>
+    <string name="delete_apps">Alkalmazások törlése</string>
+    <string name="do_you_want_to_delete">Törölni akarja</string>
+    <string name="hi">Szia</string>
+    <string name="need_to_install_google_service">Megállapítottuk, hogy a készülék telepítve van a Google-szolgáltatás, függetlenül attól, hogy telepítenie kell-e?</string>
+    <string name="find_it_in_setting">Azt is megtalálhatja a Beállítások ~ menüben</string>
+    <string name="notice">Értesítés: </string>
+    <string name="speed_mode_string1">1. Ez engedélyezheti a "Clone App" futását.</string>
+    <string name="speed_mode_string2">2. Ezzel engedélyezheti az akkumulátor-fogyasztás csökkentését.</string>
+
+</resources>

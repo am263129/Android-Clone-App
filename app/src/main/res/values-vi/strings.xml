@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Xin vui lòng chờ…</string>
+    <string name="preparing">Mở ứng dụng</string>
+    <string name="delete">Xóa bỏ</string>
+    <string name="create_shortcut">Tạo lối tắt</string>
+    <string name="clone_apps">Ứng dụng nhân bản</string>
+    <string name="external_storage">Lưu trữ ngoài</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Cửa hàng chủ đề</string>
+    <string name="speed_mode">Chế độ tốc độ</string>
+    <string name="invite_friend">Mời bạn bè</string>
+    <string name="rate_us">Đánh giá chúng tôi Google Play</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="about">Trong khoảng</string>
+
+    <string name="sharebutton">Tải xuống "Clone App" trên google play:</string>
+    <string name="delete_apps">Xóa ứng dụng</string>
+    <string name="do_you_want_to_delete">Bạn có muốn xóa không</string>
+    <string name="hi">Chào</string>
+    <string name="need_to_install_google_service">Chúng tôi thấy rằng thiết bị của bạn đã được cài đặt dịch vụ Google, cho dù bạn cần cài đặt chúng?</string>
+    <string name="find_it_in_setting">Bạn cũng có thể tìm thấy nó trong Cài đặt ~</string>
+    <string name="notice">Để ý: </string>
+    <string name="speed_mode_string1">1. Kích hoạt tính năng này có thể tăng tốc độ chạy "Clone App".</string>
+    <string name="speed_mode_string2">2. Kích hoạt tính năng này có thể giảm mức tiêu thụ pin.</string>
+
+</resources>

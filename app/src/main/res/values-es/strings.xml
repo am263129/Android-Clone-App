@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">por favor espera…</string>
+    <string name="preparing">Abriendo la aplicación ...</string>
+    <string name="delete">Borrar</string>
+    <string name="create_shortcut">Crear acceso directo</string>
+    <string name="clone_apps">Aplicaciones Clon</string>
+    <string name="external_storage">Almacenamiento externo</string>
+
+
+    <!--  menu item names -->
+    <string name="theme_store">Tienda de temas</string>
+    <string name="speed_mode">Modo de velocidad</string>
+    <string name="invite_friend">Invitar a un amigo</string>
+    <string name="rate_us">Califícanos Google Play</string>
+    <string name="language">Idioma</string>
+    <string name="about">Acerca de</string>
+
+    <string name="sharebutton">Descargar "Clone App" en google play:</string>
+    <string name="delete_apps">Eliminar aplicaciones</string>
+    <string name="do_you_want_to_delete">Quieres borrar</string>
+    <string name="hi">Hola</string>
+    <string name="need_to_install_google_service">Descubrimos que su dispositivo ha instalado el servicio de Google, ¿necesita instalarlo?</string>
+    <string name="find_it_in_setting">También puedes encontrarlo en la Configuración ~</string>
+    <string name="notice">Darse cuenta: </string>
+    <string name="speed_mode_string1">1. Habilitar esto puede acelerar la ejecución de "Clone App".</string>
+    <string name="speed_mode_string2">2. Habilitar esto puede reducir el ahorro de consumo de batería.</string>
+
+</resources>

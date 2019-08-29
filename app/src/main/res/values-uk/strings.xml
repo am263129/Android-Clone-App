@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Зачекайте…</string>
+    <string name="preparing">Відкриття програми…</string>
+    <string name="delete">Видалити</string>
+    <string name="create_shortcut">Створити ярлик</string>
+    <string name="clone_apps">Програми для клонування</string>
+    <string name="external_storage">Зовнішній накопичувач</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Тематичний магазин</string>
+    <string name="speed_mode">Режим швидкості</string>
+    <string name="invite_friend">Запросити друга</string>
+    <string name="rate_us">Оцініть Google Play</string>
+    <string name="language">Мова</string>
+    <string name="about">Про</string>
+
+    <string name="sharebutton">Завантажити "Clone App" у Google Play:</string>
+    <string name="delete_apps">Видалити програми</string>
+    <string name="do_you_want_to_delete">Ви хочете видалити</string>
+    <string name="hi">Привіт</string>
+    <string name="need_to_install_google_service">Ми виявили, що на вашому пристрої встановлено службу Google, чи потрібно їх встановлювати?</string>
+    <string name="find_it_in_setting">Ви також можете знайти її в Параметрах ~</string>
+    <string name="notice">Повідомлення: </string>
+    <string name="speed_mode_string1">1. Увімкніть цю функцію для прискорення запуску програми "Clone App".</string>
+    <string name="speed_mode_string2">2. Увімкніть цю функцію, щоб зменшити заощадження енергії акумулятора.</string>
+
+
+</resources>

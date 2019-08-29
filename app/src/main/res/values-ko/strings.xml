@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">기다려주세요.…</string>
+    <string name="preparing">앱 열기 ...</string>
+    <string name="delete">지우다</string>
+    <string name="create_shortcut">바로 가기 만들기</string>
+    <string name="clone_apps">앱 복제</string>
+    <string name="external_storage">외부 저장</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">테마 스토어</string>
+    <string name="speed_mode">속도 모드</string>
+    <string name="invite_friend">친구를 초대</string>
+    <string name="rate_us">Google Play 평가</string>
+    <string name="language">언어</string>
+    <string name="about">앱정보</string>
+
+    <string name="sharebutton">Google Play에서 "Clone App"다운로드 :</string>
+    <string name="delete_apps">앱 삭제</string>
+    <string name="do_you_want_to_delete">삭제 하시겠습니까?</string>
+    <string name="hi">안녕하세요</string>
+    <string name="need_to_install_google_service">기기를 설치해야하는지 여부와 상관없이 기기에 Google 서비스가 설치되어있는 것으로 나타났습니다.</string>
+    <string name="find_it_in_setting">설정에서 찾을 수도 있습니다 ~</string>
+    <string name="notice">주의: </string>
+    <string name="speed_mode_string1">1.이 기능을 사용하면 앱 실행 속도를 높일 수 있습니다.</string>
+    <string name="speed_mode_string2">2.이 기능을 사용하면 배터리 절약을 줄일 수 있습니다.</string>
+
+</resources>

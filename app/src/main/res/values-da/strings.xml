@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Vent venligst…</string>
+    <string name="preparing">Åbning af appen ...</string>
+    <string name="delete">Slet</string>
+    <string name="create_shortcut">Opret genvej</string>
+    <string name="clone_apps">Klonapplikationer</string>
+    <string name="external_storage">Ekstern lagring</string>
+
+
+    <!--  menu item names -->
+    <string name="theme_store">Tema butik</string>
+    <string name="speed_mode">Hastighedstilstand</string>
+    <string name="invite_friend">Inviter en ven</string>
+    <string name="rate_us">Vurder os Google Play</string>
+    <string name="language">Sprog</string>
+    <string name="about">Om</string>
+
+    <string name="sharebutton">Download "Clone App" på google play:</string>
+    <string name="delete_apps">Slet apps</string>
+    <string name="do_you_want_to_delete">Vil du slette</string>
+    <string name="hi">Hej</string>
+    <string name="need_to_install_google_service">Vi fandt ud af, at din enhed er installeret Google-tjenesten, om du skal installere dem?</string>
+    <string name="find_it_in_setting">Du kan også finde det i indstillingerne ~</string>
+    <string name="notice">Varsel: </string>
+    <string name="speed_mode_string1">1. Aktiver dette kan fremskynde Clone app kører.</string>
+    <string name="speed_mode_string2">2. Aktivér dette kan reducere forbrug af batterier.</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">Vennligst vent…</string>
+    <string name="preparing">Åpner appen ...</string>
+    <string name="delete">Slett</string>
+    <string name="create_shortcut">Lag snarvei</string>
+    <string name="clone_apps">Klonapplikasjoner</string>
+    <string name="external_storage">Ekstern lagring</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">Tema butikk</string>
+    <string name="speed_mode">Hastighetsmodus</string>
+    <string name="invite_friend">Inviter venn</string>
+    <string name="rate_us">Vurder oss Google Play</string>
+    <string name="language">Språk</string>
+    <string name="about">Handle om</string>
+
+    <string name="sharebutton">Last ned "Clone App" på Google Play:</string>
+    <string name="delete_apps">Slett apper</string>
+    <string name="do_you_want_to_delete">Ønsker du å slette</string>
+    <string name="hi">Hei</string>
+    <string name="need_to_install_google_service">Vi har funnet ut at enheten din har blitt installert Google-tjenesten, om du trenger å installere dem?</string>
+    <string name="find_it_in_setting">Du kan også finne den i Innstillinger ~</string>
+    <string name="notice">Legge merke til: </string>
+    <string name="speed_mode_string1">1. Aktiver at dette kan øke hastigheten på "Clone App".</string>
+    <string name="speed_mode_string2">2. Aktiver dette, slik at du kan redusere strømforbruket.</string>
+
+
+</resources>

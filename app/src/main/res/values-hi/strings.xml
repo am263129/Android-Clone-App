@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">कृपया प्रतीक्षा करें…</string>
+    <string name="preparing">एप्लिकेशन खोल रहा है ...</string>
+    <string name="delete">हटाना</string>
+    <string name="create_shortcut">शॉर्टकट बनाएं</string>
+    <string name="clone_apps">क्लोन एप्स</string>
+    <string name="external_storage">बाह्य भंडारण</string>
+
+    <!--  menu item names -->
+    <string name="theme_store">थीम स्टोर</string>
+    <string name="speed_mode">स्पीड मोड</string>
+    <string name="invite_friend">मित्र को न्योता</string>
+    <string name="rate_us">हमें Google Play रेट करें</string>
+    <string name="language">भाषा</string>
+    <string name="about">के बारे में</string>
+
+    <string name="sharebutton">Google Play पर "Clone App" डाउनलोड करें:</string>
+    <string name="delete_apps">ऐप्स हटाएं</string>
+    <string name="do_you_want_to_delete">क्या आप हटाना चाहते हैं</string>
+    <string name="hi">नमस्ते</string>
+    <string name="need_to_install_google_service">हमने पाया कि आपके डिवाइस को Google सेवा स्थापित कर दी गई है, क्या आपको उन्हें स्थापित करने की आवश्यकता है?</string>
+    <string name="find_it_in_setting">आप इसे सेटिंग ~ में भी पा सकते हैं</string>
+    <string name="notice">सूचना: </string>
+    <string name="speed_mode_string1">1. सक्षम करें इससे "Clone App" गति बढ़ सकती है।</string>
+    <string name="speed_mode_string2">2. सक्षम यह बैटरी की खपत को कम कर सकता है।</string>
+
+
+</resources>

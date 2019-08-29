@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kcm.cloneapp.home.SpeedModeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@color/colorPrimary">
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="15dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_back"
+                android:layout_gravity="center|left"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="#dddddd"
+                android:text="@string/speed_mode"/>
+        </FrameLayout>
+        <View
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:background="@color/colorText"
+            android:layout_height="1dp"/>
+        <FrameLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <Switch
+                android:id="@+id/switch_speed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/speed_mode"
+                android:textColor="@color/colorText"
+                android:textSize="20dp" />
+
+        </FrameLayout>
+
+        <View
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:background="@color/colorText"
+            android:layout_height="1dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/colorText"
+            android:textSize="16dp"
+            android:text="@string/notice"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorText"
+            android:textSize="16dp"
+            android:text="@string/speed_mode_string1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/colorText"
+            android:textSize="16dp"
+            android:text="2. Enable this can reduce save battery consumption."/>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Clone App</string>
+    <string name="wait">ارجوك انتظر</string>
+    <string name="preparing">فتح التطبيق ...</string>
+    <string name="delete">حذف</string>
+    <string name="create_shortcut">انشاء اختصار</string>
+    <string name="clone_apps">تطبيقات استنساخ</string>
+    <string name="external_storage">تخزين خارجي</string>
+
+
+    <!--  menu item names -->
+    <string name="theme_store">متجر موضوع</string>
+    <string name="speed_mode">وضع السرعة</string>
+    <string name="invite_friend">دعوة صديق</string>
+    <string name="rate_us">قيمنا على Google Play</string>
+    <string name="language">لغة</string>
+    <string name="about">حول</string>
+
+    <string name="sharebutton">تنزيل "Clone App" على Google Play : </string>
+    <string name="delete_apps">حذف التطبيقات</string>
+    <string name="do_you_want_to_delete">هل تريد أن تحذف</string>
+    <string name="hi">مرحبا</string>
+    <string name="need_to_install_google_service">لقد وجدنا أنه قد تم تثبيت جهازك على خدمة Google ، سواء أكنت بحاجة إلى تثبيتها؟</string>
+    <string name="find_it_in_setting">يمكنك أيضًا العثور عليها في الإعدادات~</string>
+    <string name="notice">تنويه: </string>
+    <string name="speed_mode_string1">1. تمكين هذا يمكن تسريع "Clone App" قيد التشغيل.</string>
+    <string name="speed_mode_string2">2. تمكين هذا يمكن أن يقلل من توفير استهلاك البطارية.</string>
+
+</resources>
